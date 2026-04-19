@@ -1,4 +1,4 @@
-# 🤖 Takeshi Bot
+# 🤖 𝑱𝒐𝒉𝒂𝒏𝑩𝒐𝒕-𝑴𝑫
 
 ![Takeshi Bot](./assets/images/takeshi-bot.png)
 
