@@ -1,6 +1,6 @@
 # 🤖 𝑱𝒐𝒉𝒂𝒏𝑩𝒐𝒕-𝑴𝑫
 
-![Takeshi Bot](./assets/images/takeshi-bot.png)
+![Takeshi Bot](./assets/images/johan-bot.png)
 
 [![Version](https://img.shields.io/badge/Versión-7.4.0-blue)](https://github.com/guiireal/takeshi-bot)
 
